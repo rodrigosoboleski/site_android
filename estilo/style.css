@@ -16,7 +16,7 @@
 
     --fonte-padrão: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
-    --fonte-android: 'idroid', cursive; 
+    --fonte-android: 'idroid', monospace, cursive; 
 }
 * {
     margin: 0px;
